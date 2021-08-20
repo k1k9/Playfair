@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 #
-# Title: Playfair Cipher by Monthly
+# Title: Playfair Cipher by Monthly vel k1k9
 # Description: Encyption and decryption Playfair cipher
 # Date: 20.08.2021
 # Author: monthly
