@@ -4,8 +4,6 @@
 # Title: Playfair Cipher by Monthly vel k1k9
 # Description: Encyption and decryption Playfair cipher
 # Date: 20.08.2021
-# Author: monthly
-# URL: https://readmonthly.substack.com
 #
 import re
 regex = re.compile(r'[a-ik-zA-IK-Z]')
